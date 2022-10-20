@@ -28,3 +28,5 @@ Install dnsmasq-rest-api-docker container with docker event watcher
 
 Properly route traffic and DNS request to the dnsmasq-rest-api-docker instance
 >.\00-4-RouteLocalDockerTrafficToWSL.ps1
+
+Note: Not perfectly working yet. Needs some manual seting up.
