@@ -13,7 +13,7 @@ This project allows you to create a docker instance with specific labels. When i
 ## Installation
 Run following on PowerShell Terminal as administrator
 > git clone https://github.com/DaveDeveloper/windows-workstation-containerization.git
-cd windows-workstation-containerization
+> cd windows-workstation-containerization
 
 ### Run following commands
 Install WSL and ubuntu 20.04  with proper permissions
